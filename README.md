@@ -3,8 +3,9 @@ Group members:
 1. Marius Valenta
 2. Simon Schwarzer
 
-## exercise 1: Power Curve
+## Exercise 1: Power Curve
 How to use...
 
-Show the plot:
-power_curve.png
+## Show the plot:
+
+![alt text](https://github.com/[mvalmci]/[programmieruebung2_mval]/blob/[main]/power_curve.png?raw=true)
