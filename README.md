@@ -8,4 +8,4 @@ How to use...
 
 ## Show the plot:
 
-![alt text](https://github.com/[mvalmci]/[programmieruebung2_mval]/blob/[main]/power_curve.png?raw=true)
+![alt text](power_curve.png)
