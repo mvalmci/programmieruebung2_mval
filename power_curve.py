@@ -16,4 +16,4 @@ sorted_power_W = bubble_sort(power_W)
 print(sorted_power_W[::-1])
 
 # Plotting
-plot_data_array(time, power_W)
+plot_data_array(time/60, sorted_power_W[::-1])

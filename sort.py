@@ -10,7 +10,7 @@ def bubble_sort(unsorted_array):
     return unsorted_array
     
 if __name__ == "__main__":
-    # Example usage
+    # Example use
     unsorted_array = [64, 34, 25, 12, 22, 11, 90]
     sorted_array = bubble_sort(unsorted_array)
     print("Sorted array:", sorted_array)
